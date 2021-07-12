@@ -1,0 +1,4 @@
+#!/bin/bash
+# For when I accidentally create a file but want a dir
+rm $1
+mkdir $1
