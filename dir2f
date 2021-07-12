@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # For when I accidentally create a dir but want a file
 rmdir $1
 touch $1
