@@ -1,0 +1,4 @@
+#!/bin/sh
+DIR=$(dirname $1)
+mkdir -p $DIR
+touch $1
