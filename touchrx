@@ -1,4 +1,5 @@
 #!/bin/sh
+# Creates an executable file and the necessary folders
 DIR=$(dirname $1)
 mkdir -p $DIR
 touchx $1
