@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copies a file and tracks the copy
 set -e
 cp $@
 git add ${@: -1}
