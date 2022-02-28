@@ -1,3 +1,5 @@
+Archived in favor of a [dotfiles repo](https://github.com/spenserblack/dotfiles).
+
 These are just small convenience scripts that I put in `$HOME/bin`
 (most of them should probably be bash functions instead).
 
